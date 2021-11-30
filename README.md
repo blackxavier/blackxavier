@@ -8,7 +8,7 @@ I am a software developer based in Lagos,Nigeria. I build software solutions wit
 
 👯 I’m looking to collaborate on any project that relates to backend stuff.<br>
 
-📫 How to reach me: [on twitter] (www.twitter.com/arinze_xavier)<br>
+📫 How to reach me: [on twitter](www.twitter.com/arinze_xavier)<br>
 
 <!--
 **blackxavier/blackxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
