@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### My name is Ogbuchi Arinze.
+
+🔭 I’m currently working on ...
+
 <!--
 **blackxavier/blackxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
