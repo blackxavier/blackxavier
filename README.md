@@ -5,9 +5,7 @@
 I am a software developer based in Lagos,Nigeria. <br>
 
 
-🌱 I’m currently learning how to build scalable and efficient API's.<br>
-
-👯 I’m looking to collaborate on any project that relates to backend stuff.<br>
+👯 I’m looking to collaborate on any project that relates to backend and cloud stuff (AWS).<br>
 
 📫 How to reach me: [on twitter](www.twitter.com/arinze_xavier)<br>
 
