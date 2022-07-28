@@ -3,7 +3,7 @@
 #### My name is Ogbuchi Arinze.
 
 I am a software developer based in Lagos,Nigeria. <br>
-I build software solutions with python,django and flask.<br>
+
 
 🌱 I’m currently learning how to build scalable and efficient API's.<br>
 
