@@ -2,7 +2,7 @@
 
 #### My name is Ogbuchi Arinze.
 
-I am a software developer based in Lagos,Nigeria. <br>
+I am a Cloud Engineer based in Lagos,Nigeria. <br>
 
 
 👯 I’m looking to collaborate on any project that relates to backend and cloud stuff (AWS).<br>
