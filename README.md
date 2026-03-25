@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ogbuchi Arinze
 
-**Cloud Engineer ** Based in Lagos, Nigeria 🇳🇬
+**Cloud Engineer** Based in Lagos, Nigeria 🇳🇬
 
 I specialize in building scalable infrastructure, automating deployments, and managing cloud-native applications. Currently, I'm deep-diving into the Kubernetes ecosystem and refining my backend skills with Python.
 
@@ -20,8 +20,6 @@ I specialize in building scalable infrastructure, automating deployments, and ma
 | **Backend** | Python (Django, Flask)|
 | **Virtualization** | Proxmox, OpenStack |
 
-### 📈 GitHub Stats
-![Arinze's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackxavier&show_icons=true&theme=transparent)
 
 ### 📫 Connect with me:
 * **Twitter:** [@arinze_xavier](https://www.twitter.com/arinze_xavier)
