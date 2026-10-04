@@ -9,7 +9,7 @@ I design, automate, and operate reliable cloud infrastructure, distributed backe
 
 ### 🚀 What I'm Focused On
 
-* **Postgraduate Studies:** MSc in Advanced Software Engineering, investigating distributed patterns, performance optimization, and scalable architectures.
+* **Postgraduate Studies:** MSc in Computer Science from University of East London.
 * **Cloud Architecture & IaC:** Provisioning modular multi-environment infrastructure with **Terraform**, orchestrating containerized workloads with **Docker & Kubernetes**, and enforcing zero-trust server environments.
 * **Backend Systems & Integrations:** Architecting robust services using **Python (Django, FastAPI)**, message brokers (**Celery**), relational databases (**PostgreSQL**), and secure object storage via **AWS S3**.
 * **Observability & Reliability:** Designing end-to-end monitoring stacks using **Prometheus, Grafana, Loki**, and native cloud telemetry to minimize MTTR and maintain operational visibility.
@@ -26,7 +26,7 @@ I design, automate, and operate reliable cloud infrastructure, distributed backe
 | **Backend & APIs** | Python (Django, FastAPI, Flask), RESTful APIs, Celery, Background Workers |
 | **Databases & Storage** | PostgreSQL, MySQL, MariaDB, SQLite, Redis, AWS S3 presigned asset delivery |
 | **Web Servers & Networking** | Nginx, Apache, Reverse Proxies, SSL/TLS Automation (Let's Encrypt), DNS |
-| **Observability & Logging** | Prometheus, Grafana, Loki, Tempo, GoAccess, Journald |
+| **Observability & Logging** | Prometheus, Grafana, Loki, Journald |
 | **Virtualization** | Proxmox VE, LXC, OpenStack |
 
 ---
@@ -41,6 +41,6 @@ I design, automate, and operate reliable cloud infrastructure, distributed backe
 
 ### 📫 Connect with Me
 
-* **GitHub:** [@your-github-username](https://github.com/your-github-username)
+* **GitHub:** [@your-github-username](https://github.com/blackxavier)
 * **X (Twitter):** [@arinze_xavier](https://twitter.com/arinze_xavier)
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
